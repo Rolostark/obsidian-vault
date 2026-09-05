@@ -182,11 +182,13 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "34be9b95749182b6",
   "lastOpenFiles": [
+    "README.md",
     "02_Snippets/git-deshacer-commit.md",
     "01_Proyectos/_INDEX_MiPrimerProyecto.md",
     "04_Plantillas/Plantilla_Snippet.md",
