@@ -21,3 +21,6 @@ Aquí es donde conectamos tu conocimiento con tus proyectos:
 ```dataview 
 TABLE file.mtime AS "Última Modificación" FROM "02_Snippets" SORT file.mtime DESC
 ```
+
+
+[[2026-W36]]

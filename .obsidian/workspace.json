@@ -99,12 +99,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2026-W36.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
@@ -181,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +200,9 @@
   },
   "active": "8ad9ae68d1d0aaa9",
   "lastOpenFiles": [
-    "2026-09-05.md",
+    "01_Proyectos/_INDEX_MiPrimerProyecto.md",
     "2026-W36.md",
+    "2026-09-05.md",
     "Tablero - Mi Primer Proyecto.md",
     "01_Proyectos/Validacion de Formulario.md",
     "01_Proyectos/Prueba.md",
@@ -213,7 +214,6 @@
     "01_Proyectos/01/Crear la estructura HTML base.md",
     "01_Proyectos/01.md",
     "01_Proyectos/01",
-    "01_Proyectos/_INDEX_MiPrimerProyecto.md",
     "02_Snippets/git-deshacer-commit.md",
     "04_Plantillas/Plantilla_Snippet.md",
     "Bienvenido.md",
