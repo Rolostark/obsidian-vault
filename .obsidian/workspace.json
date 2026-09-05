@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Proyectos/Prueba.md",
+                "file": "2026-W36.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prueba"
+              "title": "2026-W36"
             }
           }
         ]
@@ -166,6 +166,16 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "f00cb3274b9e17d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -190,13 +200,15 @@
   },
   "active": "8ad9ae68d1d0aaa9",
   "lastOpenFiles": [
-    "Pasted image 20260905144220.png",
-    "01_Proyectos/Prueba.md",
     "2026-09-05.md",
+    "2026-W36.md",
+    "Tablero - Mi Primer Proyecto.md",
+    "01_Proyectos/Validacion de Formulario.md",
+    "01_Proyectos/Prueba.md",
+    "Pasted image 20260905144220.png",
     "04_Plantillas/Plantilla_Codigo.md",
     "README.md",
     "01_Proyectos/01/Diseñar la barra de navegación con CSS.md",
-    "Tablero - Mi Primer Proyecto.md",
     "01_Proyectos/01/Añadir interactividad con JavaScript.md",
     "01_Proyectos/01/Crear la estructura HTML base.md",
     "01_Proyectos/01.md",
