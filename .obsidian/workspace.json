@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Proyectos/01/Diseñar la barra de navegación con CSS.md",
+                "file": "01_Proyectos/Prueba.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diseñar la barra de navegación con CSS"
+              "title": "Prueba"
             }
           }
         ]
@@ -184,16 +184,21 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5470f334204fbd61",
+  "active": "8ad9ae68d1d0aaa9",
   "lastOpenFiles": [
+    "Pasted image 20260905144220.png",
+    "01_Proyectos/Prueba.md",
+    "2026-09-05.md",
+    "04_Plantillas/Plantilla_Codigo.md",
+    "README.md",
+    "01_Proyectos/01/Diseñar la barra de navegación con CSS.md",
     "Tablero - Mi Primer Proyecto.md",
     "01_Proyectos/01/Añadir interactividad con JavaScript.md",
-    "01_Proyectos/01/Diseñar la barra de navegación con CSS.md",
     "01_Proyectos/01/Crear la estructura HTML base.md",
-    "README.md",
     "01_Proyectos/01.md",
     "01_Proyectos/01",
     "01_Proyectos/_INDEX_MiPrimerProyecto.md",
