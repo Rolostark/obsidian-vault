@@ -11,21 +11,14 @@
             "id": "8ad9ae68d1d0aaa9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tablero - Mi Primer Proyecto.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "01_Proyectos/01/Diseñar la barra de navegación con CSS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Tablero - Mi Primer Proyecto"
+              "icon": "lucide-file",
+              "title": "Diseñar la barra de navegación con CSS"
             }
           }
         ]
@@ -194,13 +187,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8ad9ae68d1d0aaa9",
+  "active": "5470f334204fbd61",
   "lastOpenFiles": [
-    "README.md",
     "Tablero - Mi Primer Proyecto.md",
+    "01_Proyectos/01/Añadir interactividad con JavaScript.md",
+    "01_Proyectos/01/Diseñar la barra de navegación con CSS.md",
+    "01_Proyectos/01/Crear la estructura HTML base.md",
+    "README.md",
     "01_Proyectos/01.md",
     "01_Proyectos/01",
-    "01_Proyectos/01/Crear la estructura HTML base.md",
     "01_Proyectos/_INDEX_MiPrimerProyecto.md",
     "02_Snippets/git-deshacer-commit.md",
     "04_Plantillas/Plantilla_Snippet.md",

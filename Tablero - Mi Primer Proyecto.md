@@ -10,13 +10,13 @@ kanban-plugin: board
 
 ## Por Hacer
 
-- [ ] Diseñar la barra de navegación con CSS
-- [ ] Añadir interactividad con JavaScript
 
 
 ## En Proceso
 
 - [ ] [[Crear la estructura HTML base]]
+- [ ] [[Diseñar la barra de navegación con CSS]]
+- [ ] [[Añadir interactividad con JavaScript]]
 
 
 ## Terminado
